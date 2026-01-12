@@ -1,0 +1,18 @@
+# White-label Docker Compose Override
+# This file overrides the base docker-compose.yaml for white-label deployments
+# Usage: docker compose -f docker-compose.yaml -f ../whitelabel/docker/docker-compose.override.yml up -d
+
+services:
+  web:
+    # Mount custom assets over the default ones
+    volumes:
+      - ../whitelabel/web/public/logo:/app/web/public/logo:ro
+      - ../whitelabel/web/public/favicon.ico:/app/web/public/favicon.ico:ro
+      - ../whitelabel/web/public/apple-touch-icon.png:/app/web/public/apple-touch-icon.png:ro
+      - ../whitelabel/web/public/manifest.json:/app/web/public/manifest.json:ro
+      # Mount custom icons if you have them
+      # - ../whitelabel/web/public/icon-192x192.png:/app/web/public/icon-192x192.png:ro
+      # - ../whitelabel/web/public/icon-512x512.png:/app/web/public/icon-512x512.png:ro
+    environment:
+      # Custom branding environment variables (if supported)
+      NEXT_PUBLIC_SITE_TITLE: ${WHITELABEL_SITE_TITLE:-Dooza AI}

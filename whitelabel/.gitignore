@@ -1,0 +1,9 @@
+# Don't commit actual secrets
+docker/.env.local
+docker/.env.production
+
+# Keep logo placeholder but ignore actual brand assets if they're proprietary
+# Uncomment if your logos should not be in git:
+# web/public/logo/*.png
+# web/public/logo/*.svg
+# web/public/*.ico

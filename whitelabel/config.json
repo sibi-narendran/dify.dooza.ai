@@ -1,0 +1,35 @@
+{
+  "$schema": "./config.schema.json",
+  "brand": {
+    "name": "Dooza AI",
+    "shortName": "Dooza",
+    "description": "Build Production Ready Agentic AI Solutions",
+    "themeColor": "#10B981",
+    "backgroundColor": "#ffffff"
+  },
+  "meta": {
+    "appleWebAppTitle": "Dooza AI",
+    "categories": ["productivity", "utilities", "developer"]
+  },
+  "assets": {
+    "logo": "web/public/logo/logo.svg",
+    "logoMonochromeWhite": "web/public/logo/logo-monochrome-white.svg",
+    "logoSite": "web/public/logo/logo-site.png",
+    "logoSiteDark": "web/public/logo/logo-site-dark.png",
+    "logoEmbeddedChatAvatar": "web/public/logo/logo-embedded-chat-avatar.png",
+    "logoEmbeddedChatHeader": "web/public/logo/logo-embedded-chat-header.png",
+    "favicon": "web/public/favicon.ico",
+    "appleTouchIcon": "web/public/apple-touch-icon.png",
+    "icons": {
+      "72": "web/public/icon-72x72.png",
+      "96": "web/public/icon-96x96.png",
+      "128": "web/public/icon-128x128.png",
+      "144": "web/public/icon-144x144.png",
+      "152": "web/public/icon-152x152.png",
+      "192": "web/public/icon-192x192.png",
+      "256": "web/public/icon-256x256.png",
+      "384": "web/public/icon-384x384.png",
+      "512": "web/public/icon-512x512.png"
+    }
+  }
+}
