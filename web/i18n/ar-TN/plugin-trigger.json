@@ -1,4 +1,4 @@
-{
+﻿{
   "events.actionNum": "{{num}} {{event}} متضمن",
   "events.description": "الأحداث التي يمكن لمكون المشغل الإضافي هذا الاشتراك فيها",
   "events.empty": "لا توجد أحداث متاحة",
@@ -45,7 +45,7 @@
   "modal.oauth.authorization.authFailed": "فشل الحصول على معلومات تفويض OAuth",
   "modal.oauth.authorization.authSuccess": "تم التفويض بنجاح",
   "modal.oauth.authorization.authorizeButton": "تفويض مع {{provider}}",
-  "modal.oauth.authorization.description": "تفويض Dify للوصول إلى حسابك",
+  "modal.oauth.authorization.description": "تفويض Dooza للوصول إلى حسابك",
   "modal.oauth.authorization.redirectUrl": "عنوان URL لإعادة التوجيه",
   "modal.oauth.authorization.redirectUrlHelp": "استخدم عنوان URL هذا في تكوين تطبيق OAuth الخاص بك",
   "modal.oauth.authorization.title": "تفويض OAuth",

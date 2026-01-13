@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "केवल बाहरी ज्ञान का उपयोग करते समय, उपयोगकर्ता यह चुन सकता है कि Rerank मॉडल को सक्षम करना है या नहीं। यदि सक्षम नहीं है, तो पुनर्प्राप्त किए गए विखंडू स्कोर के आधार पर क्रमबद्ध किए जाएंगे। जब विभिन्न ज्ञान आधारों की पुनर्प्राप्ति रणनीतियाँ असंगत होती हैं, तो यह गलत होगी।",
   "allKnowledge": "सर्व ज्ञान",
   "allKnowledgeDescription": "इस कार्यस्थान में सभी ज्ञान प्रदर्शित करने के लिए चयन करें. केवल कार्यस्थान स्वामी ही सभी ज्ञान का प्रबंधन कर सकता है.",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "एपीआई समापन बिंदु",
   "externalAPIForm.name": "नाम",
   "externalAPIForm.save": "रक्षा कर",
-  "externalAPIPanelDescription": "बाहरी ज्ञान API का उपयोग Dify के बाहर नॉलेज बेस से कनेक्ट करने और उस नॉलेज बेस से ज्ञान प्राप्त करने के लिए किया जाता है।",
+  "externalAPIPanelDescription": "बाहरी ज्ञान API का उपयोग Dooza के बाहर नॉलेज बेस से कनेक्ट करने और उस नॉलेज बेस से ज्ञान प्राप्त करने के लिए किया जाता है।",
   "externalAPIPanelDocumentation": "बाहरी नॉलेज API बनाने का तरीका जानें",
   "externalAPIPanelTitle": "बाहरी ज्ञान एपीआई",
   "externalKnowledgeBase": "बाहरी ज्ञान आधार",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "वेक्टर",
   "indexingTechnique.economy": "किफायती",
   "indexingTechnique.high_quality": "उच्च गुणवत्ता",
-  "intro1": "ज्ञान को Dify एप्लिकेशन में ",
+  "intro1": "ज्ञान को Dooza एप्लिकेशन में ",
   "intro2": "एक संदर्भ के रूप में ",
   "intro3": ",",
   "intro4": "या यह ",

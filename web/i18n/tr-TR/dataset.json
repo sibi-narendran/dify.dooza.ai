@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "Yalnızca harici bilgileri kullanırken, kullanıcı Rerank modelinin etkinleştirilip etkinleştirilmeyeceğini seçebilir. Etkinleştirilmezse, alınan parçalar puanlara göre sıralanır. Farklı bilgi tabanlarının erişim stratejileri tutarsız olduğunda, yanlış olacaktır.",
   "allKnowledge": "Tüm Bilgiler",
   "allKnowledgeDescription": "Bu çalışma alanındaki tüm bilgileri görüntülemek için seçin. Yalnızca Çalışma Alanı Sahibi tüm bilgileri yönetebilir.",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "API Uç Noktası",
   "externalAPIForm.name": "Ad",
   "externalAPIForm.save": "Kurtarmak",
-  "externalAPIPanelDescription": "Harici bilgi API'si, Dify dışındaki bir bilgi bankasına bağlanmak ve bu bilgi bankasından bilgi almak için kullanılır.",
+  "externalAPIPanelDescription": "Harici bilgi API'si, Dooza dışındaki bir bilgi bankasına bağlanmak ve bu bilgi bankasından bilgi almak için kullanılır.",
   "externalAPIPanelDocumentation": "External Knowledge API'nin nasıl oluşturulacağını öğrenin",
   "externalAPIPanelTitle": "Harici Bilgi API'si",
   "externalKnowledgeBase": "Harici Bilgi Bankası",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "VEKTÖR",
   "indexingTechnique.economy": "Ekonomi",
   "indexingTechnique.high_quality": "Yüksek Kalite",
-  "intro1": "Bilgi, Dify uygulamasına ",
+  "intro1": "Bilgi, Dooza uygulamasına ",
   "intro2": "bağlam olarak",
   "intro3": " entegre edilebilir,",
   "intro4": "veya ",

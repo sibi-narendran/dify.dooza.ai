@@ -1,4 +1,4 @@
-{
+﻿{
   "error.unavailable": "Este Conhecimento não está disponível",
   "firecrawl.apiKeyPlaceholder": "Chave de API do firecrawl.dev",
   "firecrawl.configFirecrawl": "Configurar 🔥o Firecrawl",
@@ -6,7 +6,7 @@
   "jinaReader.apiKeyPlaceholder": "Chave de API do jina.ai",
   "jinaReader.configJinaReader": "Configurar o Jina Reader",
   "jinaReader.getApiKeyLinkText": "Obtenha sua chave de API gratuita em jina.ai",
-  "otherDataSource.description": "Atualmente, a base de conhecimento da Dify possui apenas fontes de dados limitadas. Contribuir com uma fonte de dados para a base de conhecimento Dify é uma maneira fantástica de ajudar a aumentar a flexibilidade e o poder da plataforma para todos os usuários. Nosso guia de contribuição facilita o início. Clique no link abaixo para saber mais.",
+  "otherDataSource.description": "Atualmente, a base de conhecimento da Dooza possui apenas fontes de dados limitadas. Contribuir com uma fonte de dados para a base de conhecimento Dooza é uma maneira fantástica de ajudar a aumentar a flexibilidade e o poder da plataforma para todos os usuários. Nosso guia de contribuição facilita o início. Clique no link abaixo para saber mais.",
   "otherDataSource.learnMore": "Saiba Mais",
   "otherDataSource.title": "Conectar-se a outras fontes de dados?",
   "stepOne.button": "Próximo",

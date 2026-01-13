@@ -39,7 +39,32 @@ docker compose up -d
 git fetch upstream
 git merge upstream/main
 # Resolve any conflicts, your whitelabel/ files are yours
+
+# Re-run rebranding script to update any new "Dify" text from upstream
+.\whitelabel\rebrand.ps1
 ```
+
+## 🔤 Rebranding (Dify → Dooza)
+
+The `rebrand.ps1` script replaces all "Dify" text with "Dooza" across:
+- **22 language directories** (660 i18n JSON files)
+- **Frontend components** (logo alt text, icon names)
+
+```powershell
+# Preview changes without modifying files
+.\whitelabel\rebrand.ps1 -DryRun
+
+# Apply all changes
+.\whitelabel\rebrand.ps1
+
+# Only rebrand i18n files
+.\whitelabel\rebrand.ps1 -I18nOnly
+
+# Only rebrand component files  
+.\whitelabel\rebrand.ps1 -ComponentsOnly
+```
+
+**Note:** Always re-run this script after merging upstream updates.
 
 ## ⚙️ Configuration
 
@@ -64,8 +89,10 @@ NEXT_TELEMETRY_DISABLED=1
 
 | File | Change |
 |------|--------|
+| `web/i18n/**/*.json` | All "Dify" → "Dooza" text (660 files) |
 | `web/public/manifest.json` | Name: "Dooza AI", theme: #10B981 |
 | `web/app/layout.tsx` | Theme color & app title |
+| `web/app/components/base/logo/dify-logo.tsx` | Logo alt text |
 | `web/public/browserconfig.xml` | Tile color |
 | `web/public/favicon.ico` | Your favicon |
 | `web/public/apple-touch-icon.png` | Your icon |

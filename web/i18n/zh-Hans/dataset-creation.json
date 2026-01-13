@@ -1,4 +1,4 @@
-{
+﻿{
   "error.unavailable": "该知识库不可用",
   "firecrawl.apiKeyPlaceholder": "从 firecrawl.dev 获取 API Key",
   "firecrawl.configFirecrawl": "配置 🔥Firecrawl",
@@ -6,7 +6,7 @@
   "jinaReader.apiKeyPlaceholder": "从 jina.ai 获取 API Key",
   "jinaReader.configJinaReader": "配置 Jina Reader",
   "jinaReader.getApiKeyLinkText": "从 jina.ai 获取您的免费 API Key",
-  "otherDataSource.description": "目前，Dify 的知识库只有有限的数据源。向 Dify 知识库贡献数据源是帮助所有用户增强平台灵活性和强大功能的绝佳方式。我们的贡献指南使入门变得容易。请点击下面的链接了解更多信息。",
+  "otherDataSource.description": "目前，Dooza 的知识库只有有限的数据源。向 Dooza 知识库贡献数据源是帮助所有用户增强平台灵活性和强大功能的绝佳方式。我们的贡献指南使入门变得容易。请点击下面的链接了解更多信息。",
   "otherDataSource.learnMore": "了解更多信息",
   "otherDataSource.title": "连接到其他数据源？",
   "stepOne.button": "下一步",

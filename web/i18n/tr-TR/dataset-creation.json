@@ -1,4 +1,4 @@
-{
+﻿{
   "error.unavailable": "Bu Bilgi kullanılamıyor",
   "firecrawl.apiKeyPlaceholder": "firecrawl.dev'den API anahtarı",
   "firecrawl.configFirecrawl": "🔥Firecrawl'ı Yapılandır",
@@ -6,7 +6,7 @@
   "jinaReader.apiKeyPlaceholder": "jina.ai'dan API anahtarı",
   "jinaReader.configJinaReader": "Jina Reader'ı Yapılandırma",
   "jinaReader.getApiKeyLinkText": "Ücretsiz API anahtarınızı hemen jina.ai alın",
-  "otherDataSource.description": "Şu anda, Dify'ın bilgi tabanı yalnızca sınırlı veri kaynaklarına sahiptir. Dify bilgi tabanına bir veri kaynağına katkıda bulunmak, tüm kullanıcılar için platformun esnekliğini ve gücünü artırmaya yardımcı olmanın harika bir yoludur. Katkı kılavuzumuz, başlamanızı kolaylaştırır. Daha fazla bilgi edinmek için lütfen aşağıdaki bağlantıya tıklayın.",
+  "otherDataSource.description": "Şu anda, Dooza'ın bilgi tabanı yalnızca sınırlı veri kaynaklarına sahiptir. Dooza bilgi tabanına bir veri kaynağına katkıda bulunmak, tüm kullanıcılar için platformun esnekliğini ve gücünü artırmaya yardımcı olmanın harika bir yoludur. Katkı kılavuzumuz, başlamanızı kolaylaştırır. Daha fazla bilgi edinmek için lütfen aşağıdaki bağlantıya tıklayın.",
   "otherDataSource.learnMore": "Daha fazla bilgi edinin",
   "otherDataSource.title": "Diğer veri kaynaklarına bağlanılıyor mu?",
   "stepOne.button": "Sonraki",

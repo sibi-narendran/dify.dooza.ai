@@ -1,4 +1,4 @@
-{
+﻿{
   "common.confirmPublish": "Confirm Publish",
   "common.confirmPublishContent": "After successfully publishing the knowledge pipeline, the chunk structure of this knowledge base cannot be modified. Are you sure you want to publish it?",
   "common.goToAddDocuments": "Go to add documents",

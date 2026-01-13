@@ -1,4 +1,4 @@
-{
+﻿{
   "events.actionNum": "{{num}} {{event}} 포함",
   "events.description": "이 트리거 플러그인이 구독할 수 있는 이벤트",
   "events.empty": "이용 가능한 이벤트가 없습니다",
@@ -45,7 +45,7 @@
   "modal.oauth.authorization.authFailed": "OAuth 인증 정보를 가져오지 못했습니다",
   "modal.oauth.authorization.authSuccess": "승인 성공",
   "modal.oauth.authorization.authorizeButton": "{{provider}}로 승인",
-  "modal.oauth.authorization.description": "Dify가 귀하의 계정에 접근하도록 허용",
+  "modal.oauth.authorization.description": "Dooza가 귀하의 계정에 접근하도록 허용",
   "modal.oauth.authorization.redirectUrl": "리디렉션 URL",
   "modal.oauth.authorization.redirectUrlHelp": "이 URL을 OAuth 앱 구성에 사용하세요",
   "modal.oauth.authorization.title": "OAuth 인증",

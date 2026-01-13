@@ -1,4 +1,4 @@
-{
+﻿{
   "appCard.addToWorkspace": "เพิ่มไปยังพื้นที่ทํางาน",
   "appCard.customize": "ปรับแต่ง",
   "appCustomize.nameRequired": "ต้องใช้ชื่อแอป",
@@ -6,7 +6,7 @@
   "appCustomize.title": "สร้างแอปจาก {{name}}",
   "apps.allCategories": "แนะ นำ",
   "apps.description": "ใช้แอปเทมเพลตเหล่านี้ทันทีหรือปรับแต่งแอปของคุณเองตามเทมเพลต",
-  "apps.title": "สํารวจแอพโดย Dify",
+  "apps.title": "สํารวจแอพโดย Dooza",
   "category.Agent": "ตัวแทน",
   "category.Assistant": "ผู้ช่วย",
   "category.Entertainment": "ความบันเทิง",

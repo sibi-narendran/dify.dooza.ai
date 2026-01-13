@@ -1,4 +1,4 @@
-{
+﻿{
   "error.unavailable": "該知識庫不可用",
   "firecrawl.apiKeyPlaceholder": "來自 firecrawl.dev 的 API 金鑰",
   "firecrawl.configFirecrawl": "配置 🔥Firecrawl",
@@ -6,7 +6,7 @@
   "jinaReader.apiKeyPlaceholder": "來自 jina.ai 的 API 金鑰",
   "jinaReader.configJinaReader": "配置 Jina Reader",
   "jinaReader.getApiKeyLinkText": "在 jina.ai 獲取您的免費 API 金鑰",
-  "otherDataSource.description": "目前，Dify 的知識庫只有有限的數據源。向 Dify 知識庫貢獻數據源是説明所有使用者增強平台靈活性和強大功能的絕佳方式。我們的貢獻指南使入門變得容易。請點擊下面的連結瞭解更多資訊。",
+  "otherDataSource.description": "目前，Dooza 的知識庫只有有限的數據源。向 Dooza 知識庫貢獻數據源是説明所有使用者增強平台靈活性和強大功能的絕佳方式。我們的貢獻指南使入門變得容易。請點擊下面的連結瞭解更多資訊。",
   "otherDataSource.learnMore": "瞭解更多資訊",
   "otherDataSource.title": "連接到其他數據源？",
   "stepOne.button": "下一步",

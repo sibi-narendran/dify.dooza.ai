@@ -1,4 +1,4 @@
-{
+﻿{
   "addToolModal.added": "Eklendi",
   "addToolModal.agent.tip": "",
   "addToolModal.agent.title": "Mevcut ajan stratejisi yok",
@@ -22,7 +22,7 @@
   "auth.unauthorized": "Yetkisiz",
   "author": "Tarafından",
   "builtInPromptTitle": "Prompt",
-  "contribute.line1": "Dify'ye ",
+  "contribute.line1": "Dooza'ye ",
   "contribute.line2": "araçlar eklemekle ilgileniyorum.",
   "contribute.viewGuide": "Rehberi Görüntüle",
   "copyToolName": "Adı Kopyala",
@@ -97,7 +97,7 @@
   "createTool.toolOutput.title": "Araç Çıktısı",
   "createTool.urlError": "Geçerli bir URL girin",
   "createTool.viewSchemaSpec": "OpenAPI-Swagger Spesifikasyonunu Görüntüle",
-  "customToolTip": "Dify özel araçları hakkında daha fazla bilgi edinin",
+  "customToolTip": "Dooza özel araçları hakkında daha fazla bilgi edinin",
   "howToGet": "Nasıl alınır",
   "includeToolNum": "{{num}} araç dahil",
   "mcp.authorize": "Yetkilendir",

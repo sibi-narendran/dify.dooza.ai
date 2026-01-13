@@ -1,4 +1,4 @@
-{
+﻿{
   "appCard.addToWorkspace": "Добавить в рабочее пространство",
   "appCard.customize": "Настроить",
   "appCustomize.nameRequired": "Название приложения обязательно",
@@ -6,7 +6,7 @@
   "appCustomize.title": "Создать приложение из {{name}}",
   "apps.allCategories": "Рекомендуемые",
   "apps.description": "Используйте эти шаблонные приложения мгновенно или настройте свои собственные приложения на основе шаблонов.",
-  "apps.title": "Обзор приложений от Dify",
+  "apps.title": "Обзор приложений от Dooza",
   "category.Agent": "Агент",
   "category.Assistant": "Ассистент",
   "category.Entertainment": "Развлечение",

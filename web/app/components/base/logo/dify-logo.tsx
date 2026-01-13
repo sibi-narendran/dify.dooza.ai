@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 import type { FC } from 'react'
 import useTheme from '@/hooks/use-theme'
 import { cn } from '@/utils/classnames'
@@ -37,7 +37,7 @@ const DifyLogo: FC<DifyLogoProps> = ({
     <img
       src={`${basePath}${logoPathMap[themedStyle]}`}
       className={cn('block object-contain', logoSizeMap[size], className)}
-      alt="Dify logo"
+      alt="Dooza logo"
     />
   )
 }

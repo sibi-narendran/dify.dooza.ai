@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "เมื่อใช้ความรู้ภายนอกเท่านั้น ผู้ใช้สามารถเลือกได้ว่าจะเปิดใช้งานโมเดล Rerank หรือไม่ หากไม่ได้เปิดใช้งาน ก้อนที่ดึงมาจะถูกจัดเรียงตามคะแนน เมื่อกลยุทธ์การดึงข้อมูลของฐานความรู้ที่แตกต่างกันไม่สอดคล้องกัน ก็จะไม่ถูกต้อง",
   "allKnowledge": "ความรู้ทั้งหมด",
   "allKnowledgeDescription": "เลือกเพื่อแสดงความรู้ทั้งหมดในพื้นที่ทํางานนี้ เฉพาะเจ้าของพื้นที่ทํางานเท่านั้นที่สามารถจัดการความรู้ทั้งหมดได้",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "ปลายทาง API",
   "externalAPIForm.name": "ชื่อ",
   "externalAPIForm.save": "ประหยัด",
-  "externalAPIPanelDescription": "API ความรู้ภายนอกใช้เพื่อเชื่อมต่อกับฐานความรู้ภายนอก Dify และดึงความรู้จากฐานความรู้นั้น",
+  "externalAPIPanelDescription": "API ความรู้ภายนอกใช้เพื่อเชื่อมต่อกับฐานความรู้ภายนอก Dooza และดึงความรู้จากฐานความรู้นั้น",
   "externalAPIPanelDocumentation": "เรียนรู้วิธีสร้าง API ความรู้ภายนอก",
   "externalAPIPanelTitle": "API ความรู้ภายนอก",
   "externalKnowledgeBase": "ฐานความรู้ภายนอก",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "เวกเตอร์",
   "indexingTechnique.economy": "อีโค",
   "indexingTechnique.high_quality": "สํานักงานใหญ่",
-  "intro1": "ความรู้สามารถรวมเข้ากับแอปพลิเคชัน Dify ได้",
+  "intro1": "ความรู้สามารถรวมเข้ากับแอปพลิเคชัน Dooza ได้",
   "intro2": "ตามบริบท",
   "intro3": ",",
   "intro4": "หรือมัน",

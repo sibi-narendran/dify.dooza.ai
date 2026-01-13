@@ -1,4 +1,4 @@
-{
+﻿{
   "error.unavailable": "Dieses Wissen ist nicht verfügbar",
   "firecrawl.apiKeyPlaceholder": "API-Schlüssel von firecrawl.dev",
   "firecrawl.configFirecrawl": "Konfigurieren von 🔥Firecrawl",
@@ -6,7 +6,7 @@
   "jinaReader.apiKeyPlaceholder": "API-Schlüssel von jina.ai",
   "jinaReader.configJinaReader": "Jina Reader konfigurieren",
   "jinaReader.getApiKeyLinkText": "Holen Sie sich Ihren kostenlosen API-Schlüssel bei jina.ai",
-  "otherDataSource.description": "Derzeit verfügt die Wissensdatenbank von Dify nur über begrenzte Datenquellen. Das Beitragen einer Datenquelle zur Dify-Wissensdatenbank ist eine fantastische Möglichkeit, die Flexibilität und Leistungsfähigkeit der Plattform für alle Benutzer zu verbessern. Unser Beitragsleitfaden erleichtert Ihnen den Einstieg. Bitte klicken Sie auf den untenstehenden Link, um mehr zu erfahren.",
+  "otherDataSource.description": "Derzeit verfügt die Wissensdatenbank von Dooza nur über begrenzte Datenquellen. Das Beitragen einer Datenquelle zur Dooza-Wissensdatenbank ist eine fantastische Möglichkeit, die Flexibilität und Leistungsfähigkeit der Plattform für alle Benutzer zu verbessern. Unser Beitragsleitfaden erleichtert Ihnen den Einstieg. Bitte klicken Sie auf den untenstehenden Link, um mehr zu erfahren.",
   "otherDataSource.learnMore": "Weitere Informationen",
   "otherDataSource.title": "Verbinden Sie sich mit anderen Datenquellen?",
   "stepOne.button": "weiter",

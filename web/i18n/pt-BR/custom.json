@@ -1,4 +1,4 @@
-{
+﻿{
   "app.changeLogoTip": "Formato SVG ou PNG com tamanho mínimo de 80x80px",
   "app.title": "Personalizar cabeçalho do aplicativo",
   "apply": "Aplicar",
@@ -17,6 +17,6 @@
   "uploading": "Enviando",
   "webapp.changeLogo": "Alterar Imagem da Marca Powered by",
   "webapp.changeLogoTip": "Formato SVG ou PNG com tamanho mínimo de 40x40px",
-  "webapp.removeBrand": "Remover Powered by Dify",
+  "webapp.removeBrand": "Remover Powered by Dooza",
   "webapp.title": "Personalizar marca do web app"
 }

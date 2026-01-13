@@ -1,4 +1,4 @@
-// GENERATE BY script
+﻿// GENERATE BY script
 // DON NOT EDIT IT MANUALLY
 
 import type { IconData } from '@/app/components/base/icons/IconBase'
@@ -15,6 +15,6 @@ const Icon = (
   },
 ) => <IconBase {...props} ref={ref} data={data as IconData} />
 
-Icon.displayName = 'Dify'
+Icon.displayName = 'Dooza'
 
 export default Icon

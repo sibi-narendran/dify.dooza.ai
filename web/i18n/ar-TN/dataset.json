@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "عند استخدام المعرفة الخارجية فقط، يمكن للمستخدم اختيار ما إذا كان سيمكن نموذج إعادة الترتيب. إذا لم يتم تمكينه، فسيتم فرز القطع المسترجعة بناءً على الدرجات. عندما تكون استراتيجيات الاسترجاع لقواعد المعرفة المختلفة غير متسقة، فستكون غير دقيقة.",
   "allKnowledge": "كل المعرفة",
   "allKnowledgeDescription": "حدد لعرض كل المعرفة في مساحة العمل هذه. يمكن لمالك مساحة العمل فقط إدارة كل المعرفة.",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "نقطة نهاية API",
   "externalAPIForm.name": "الاسم",
   "externalAPIForm.save": "حفظ",
-  "externalAPIPanelDescription": "تُستخدم واجهة برمجة تطبيقات المعرفة الخارجية للاتصال بقاعدة معرفة خارج Dify واسترجاع المعرفة من قاعدة المعرفة تلك.",
+  "externalAPIPanelDescription": "تُستخدم واجهة برمجة تطبيقات المعرفة الخارجية للاتصال بقاعدة معرفة خارج Dooza واسترجاع المعرفة من قاعدة المعرفة تلك.",
   "externalAPIPanelDocumentation": "تعرف على كيفية إنشاء واجهة برمجة تطبيقات المعرفة الخارجية",
   "externalAPIPanelTitle": "واجهة برمجة تطبيقات المعرفة الخارجية",
   "externalKnowledgeBase": "قاعدة المعرفة الخارجية",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "VECTOR",
   "indexingTechnique.economy": "ECO",
   "indexingTechnique.high_quality": "HQ",
-  "intro1": "يمكن دمج المعرفة في تطبيق Dify ",
+  "intro1": "يمكن دمج المعرفة في تطبيق Dooza ",
   "intro2": "كسياق",
   "intro3": "،",
   "intro4": "أو ",

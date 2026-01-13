@@ -1,4 +1,4 @@
-{
+﻿{
   "appCard.addToWorkspace": "Thêm vào không gian làm việc",
   "appCard.customize": "Tùy chỉnh",
   "appCustomize.nameRequired": "Vui lòng nhập tên ứng dụng",
@@ -6,7 +6,7 @@
   "appCustomize.title": "Tạo ứng dụng từ {{name}}",
   "apps.allCategories": "Tất cả danh mục",
   "apps.description": "Sử dụng ngay các ứng dụng mẫu này hoặc tùy chỉnh ứng dụng của bạn dựa trên các mẫu có sẵn.",
-  "apps.title": "Khám phá ứng dụng bởi Dify",
+  "apps.title": "Khám phá ứng dụng bởi Dooza",
   "category.Agent": "Người đại lý",
   "category.Assistant": "Trợ lý",
   "category.Entertainment": "Giải trí",

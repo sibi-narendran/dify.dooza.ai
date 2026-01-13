@@ -1,4 +1,4 @@
-{
+﻿{
   "addToolModal.added": "added",
   "addToolModal.agent.tip": "",
   "addToolModal.agent.title": "No agent strategy available",
@@ -23,7 +23,7 @@
   "author": "By",
   "builtInPromptTitle": "Prompt",
   "contribute.line1": "I'm interested in ",
-  "contribute.line2": "contributing tools to Dify.",
+  "contribute.line2": "contributing tools to Dooza.",
   "contribute.viewGuide": "View the guide",
   "copyToolName": "Copy Name",
   "createCustomTool": "Create Custom Tool",
@@ -97,7 +97,7 @@
   "createTool.toolOutput.title": "Tool Output",
   "createTool.urlError": "Please enter a valid URL",
   "createTool.viewSchemaSpec": "View the OpenAPI-Swagger Specification",
-  "customToolTip": "Learn more about Dify custom tools",
+  "customToolTip": "Learn more about Dooza custom tools",
   "howToGet": "How to get",
   "includeToolNum": "{{num}} {{action}} included",
   "mcp.authorize": "Authorize",

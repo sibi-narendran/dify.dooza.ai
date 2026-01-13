@@ -1,4 +1,4 @@
-{
+﻿{
   "app.changeLogoTip": "Định dạng SVG hoặc PNG với kích thước tối thiểu 80x80px",
   "app.title": "Tùy chỉnh thương hiệu tiêu đề ứng dụng",
   "apply": "Áp dụng",
@@ -17,6 +17,6 @@
   "uploading": "Đang tải lên",
   "webapp.changeLogo": "Thay đổi logo \"Được hỗ trợ bởi\"",
   "webapp.changeLogoTip": "Định dạng SVG hoặc PNG với kích thước tối thiểu 40x40px",
-  "webapp.removeBrand": "Xóa \"Được hỗ trợ bởi Dify\"",
+  "webapp.removeBrand": "Xóa \"Được hỗ trợ bởi Dooza\"",
   "webapp.title": "Tùy chỉnh thương hiệu web app"
 }

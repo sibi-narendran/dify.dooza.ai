@@ -1,4 +1,4 @@
-{
+﻿{
   "appCard.addToWorkspace": "Dodaj do przestrzeni roboczej",
   "appCard.customize": "Dostosuj",
   "appCustomize.nameRequired": "Nazwa aplikacji jest wymagana",
@@ -6,7 +6,7 @@
   "appCustomize.title": "Utwórz aplikację z {{name}}",
   "apps.allCategories": "Polecane",
   "apps.description": "Wykorzystaj te aplikacje szablonowe natychmiast lub dostosuj własne aplikacje na podstawie szablonów.",
-  "apps.title": "Odkrywaj aplikacje stworzone przez Dify",
+  "apps.title": "Odkrywaj aplikacje stworzone przez Dooza",
   "category.Agent": "Agent",
   "category.Assistant": "Asystent",
   "category.Entertainment": "Rozrywka",

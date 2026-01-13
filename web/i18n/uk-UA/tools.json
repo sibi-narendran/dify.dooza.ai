@@ -1,4 +1,4 @@
-{
+﻿{
   "addToolModal.added": "Додано",
   "addToolModal.agent.tip": "",
   "addToolModal.agent.title": "Немає доступної стратегії агента",
@@ -23,7 +23,7 @@
   "author": "Автор",
   "builtInPromptTitle": "Підказка",
   "contribute.line1": "Мені цікаво зробити свій внесок",
-  "contribute.line2": "створення інструментів для Dify.",
+  "contribute.line2": "створення інструментів для Dooza.",
   "contribute.viewGuide": "Переглянути інструкцію",
   "copyToolName": "Ім'я копії",
   "createCustomTool": "Створити власний інструмент",
@@ -97,7 +97,7 @@
   "createTool.toolOutput.title": "Вихідні дані інструменту",
   "createTool.urlError": "Введіть дійсну URL-адресу",
   "createTool.viewSchemaSpec": "Переглянути специфікацію OpenAPI-Swagger",
-  "customToolTip": "Дізнайтеся більше про користувацькі інструменти Dify",
+  "customToolTip": "Дізнайтеся більше про користувацькі інструменти Dooza",
   "howToGet": "Як отримати",
   "includeToolNum": "{{num}} інструмент(ів) включено",
   "mcp.authorize": "Авторизувати",

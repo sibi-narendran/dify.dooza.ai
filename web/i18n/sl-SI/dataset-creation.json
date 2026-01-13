@@ -1,4 +1,4 @@
-{
+﻿{
   "error.unavailable": "To Znanje ni na voljo",
   "firecrawl.apiKeyPlaceholder": "API ključ od firecrawl.dev",
   "firecrawl.configFirecrawl": "Nastavi 🔥Firecrawl",
@@ -6,7 +6,7 @@
   "jinaReader.apiKeyPlaceholder": "API ključ od jina.ai",
   "jinaReader.configJinaReader": "Nastavi Jina Reader",
   "jinaReader.getApiKeyLinkText": "Pridobi brezplačni API ključ na jina.ai",
-  "otherDataSource.description": "Trenutno ima baza znanja Dify le omejene vire podatkov. Prispevanje vira podatkov v bazo znanja Dify je fantastičen način za izboljšanje prilagodljivosti in moči platforme za vse uporabnike. Naš vodnik za prispevke olajša začetek. Če želite izvedeti več, kliknite spodnjo povezavo.",
+  "otherDataSource.description": "Trenutno ima baza znanja Dooza le omejene vire podatkov. Prispevanje vira podatkov v bazo znanja Dooza je fantastičen način za izboljšanje prilagodljivosti in moči platforme za vse uporabnike. Naš vodnik za prispevke olajša začetek. Če želite izvedeti več, kliknite spodnjo povezavo.",
   "otherDataSource.learnMore": "Izvedi več",
   "otherDataSource.title": "Vzpostavite povezavo z drugimi viri podatkov?",
   "stepOne.button": "Naprej",

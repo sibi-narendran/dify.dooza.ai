@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "هنگامی که فقط از دانش خارجی استفاده می کنید، کاربر می تواند انتخاب کند که آیا مدل Rerank را فعال کند یا خیر. اگر فعال نباشد، تکه های بازیابی شده بر اساس امتیازات مرتب می شوند. هنگامی که استراتژی های بازیابی پایگاه های دانش مختلف متناقض باشد، نادرست خواهد بود.",
   "allKnowledge": "همه دانش ها",
   "allKnowledgeDescription": "برای نمایش تمام دانش در این فضای کاری انتخاب کنید. فقط مالک فضای کاری می تواند تمام دانش را مدیریت کند.",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "نقطه پایانی API",
   "externalAPIForm.name": "نام",
   "externalAPIForm.save": "ذخیره",
-  "externalAPIPanelDescription": "API دانش خارجی برای اتصال به یک پایگاه دانش خارج از Dify و بازیابی دانش از آن پایگاه دانش استفاده می شود.",
+  "externalAPIPanelDescription": "API دانش خارجی برای اتصال به یک پایگاه دانش خارج از Dooza و بازیابی دانش از آن پایگاه دانش استفاده می شود.",
   "externalAPIPanelDocumentation": "یادگیری نحوه ایجاد یک API دانش خارجی",
   "externalAPIPanelTitle": "API دانش خارجی",
   "externalKnowledgeBase": "پایگاه دانش خارجی",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "برداری",
   "indexingTechnique.economy": "ECO",
   "indexingTechnique.high_quality": "HQ",
-  "intro1": "دانش می‌تواند در برنامه Dify ",
+  "intro1": "دانش می‌تواند در برنامه Dooza ",
   "intro2": "به عنوان یک زمینه",
   "intro3": "ادغام شود",
   "intro4": "یا می‌تواند ",

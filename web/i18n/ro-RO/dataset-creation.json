@@ -1,4 +1,4 @@
-{
+﻿{
   "error.unavailable": "Această Cunoștință nu este disponibilă",
   "firecrawl.apiKeyPlaceholder": "Cheie API de la firecrawl.dev",
   "firecrawl.configFirecrawl": "Configurați 🔥Firecrawl",
@@ -6,7 +6,7 @@
   "jinaReader.apiKeyPlaceholder": "Cheie API de la jina.ai",
   "jinaReader.configJinaReader": "Configurați Jina Reader",
   "jinaReader.getApiKeyLinkText": "Obțineți cheia API gratuită la jina.ai",
-  "otherDataSource.description": "În prezent, baza de cunoștințe a Dify are doar surse de date limitate. Contribuția cu o sursă de date la baza de cunoștințe Dify este o modalitate fantastică de a ajuta la îmbunătățirea flexibilității și puterii platformei pentru toți utilizatorii. Ghidul nostru de contribuție vă ajută să începeți. Vă rugăm să faceți clic pe linkul de mai jos pentru a afla mai multe.",
+  "otherDataSource.description": "În prezent, baza de cunoștințe a Dooza are doar surse de date limitate. Contribuția cu o sursă de date la baza de cunoștințe Dooza este o modalitate fantastică de a ajuta la îmbunătățirea flexibilității și puterii platformei pentru toți utilizatorii. Ghidul nostru de contribuție vă ajută să începeți. Vă rugăm să faceți clic pe linkul de mai jos pentru a afla mai multe.",
   "otherDataSource.learnMore": "Află mai multe",
   "otherDataSource.title": "Conectați-vă la alte surse de date?",
   "stepOne.button": "următorul",

@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "外部ナレッジベースのみを使用する場合、Rerank モデルを有効にするかを選択できます。有効にしない場合、検索結果はスコアに基づいてソートされます。異なるナレッジベースで検索戦略が一貫していないと、結果が不正確になる可能性があります。",
   "allKnowledge": "ナレッジベース全体",
   "allKnowledgeDescription": "このワークスペースにナレッジベース全体を表示する場合に選択します。ワークスペースのオーナーのみがすべてのナレッジベースを管理できます。",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "API エンドポイント",
   "externalAPIForm.name": "名前",
   "externalAPIForm.save": "保存",
-  "externalAPIPanelDescription": "外部ナレッジベース連携 API は、Dify 外のナレッジベースと連携し、そこからナレッジベースを取得するために使用します。",
+  "externalAPIPanelDescription": "外部ナレッジベース連携 API は、Dooza 外のナレッジベースと連携し、そこからナレッジベースを取得するために使用します。",
   "externalAPIPanelDocumentation": "外部ナレッジベース連携 API の作成方法",
   "externalAPIPanelTitle": "外部ナレッジベース連携 API",
   "externalKnowledgeBase": "外部知識ベース",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "ベクトル検索",
   "indexingTechnique.economy": "経済",
   "indexingTechnique.high_quality": "高品質",
-  "intro1": "ナレッジベースは Dify アプリケーションに統合することができます",
+  "intro1": "ナレッジベースは Dooza アプリケーションに統合することができます",
   "intro2": "コンテキストとして",
   "intro3": "、",
   "intro4": "または",

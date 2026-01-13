@@ -1,4 +1,4 @@
-{
+﻿{
   "blocks.agent": "عامل",
   "blocks.answer": "پاسخ",
   "blocks.assigner": "تخصیص‌دهنده متغیر",
@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "وضعیت اجرای کشینگ",
   "debug.variableInspect.trigger.stop": "متوقف کن، برو",
   "debug.variableInspect.view": "مشاهده لاگ",
-  "difyTeam": "تیم دیفی",
+  "DoozaTeam": "تیم دیفی",
   "entryNodeStatus.disabled": "شروع • غیر فعال",
   "entryNodeStatus.enabled": "شروع",
   "env.envDescription": "متغیرهای محیطی می‌توانند برای ذخیره اطلاعات خصوصی و اعتبارنامه‌ها استفاده شوند. آنها فقط خواندنی هستند و می‌توانند در حین صادر کردن از فایل DSL جدا شوند.",
@@ -568,7 +568,7 @@
   "nodes.knowledgeBase.chunkIsRequired": "ساختار تکه ای مورد نیاز است",
   "nodes.knowledgeBase.chunkStructure": "ساختار تکه",
   "nodes.knowledgeBase.chunkStructureTip.learnMore": "بیشتر بدانید",
-  "nodes.knowledgeBase.chunkStructureTip.message": "پایگاه دانش Dify از سه ساختار تکه ای پشتیبانی می کند: عمومی، والد-فرزند و پرسش و پاسخ. هر پایگاه دانش فقط می تواند یک ساختار داشته باشد. خروجی گره قبلی باید با ساختار تکه انتخاب شده هماهنگ باشد. توجه داشته باشید که انتخاب ساختار تکه بندی بر روش های شاخص موجود تأثیر می گذارد.",
+  "nodes.knowledgeBase.chunkStructureTip.message": "پایگاه دانش Dooza از سه ساختار تکه ای پشتیبانی می کند: عمومی، والد-فرزند و پرسش و پاسخ. هر پایگاه دانش فقط می تواند یک ساختار داشته باشد. خروجی گره قبلی باید با ساختار تکه انتخاب شده هماهنگ باشد. توجه داشته باشید که انتخاب ساختار تکه بندی بر روش های شاخص موجود تأثیر می گذارد.",
   "nodes.knowledgeBase.chunkStructureTip.title": "لطفا یک ساختار تکه ای را انتخاب کنید",
   "nodes.knowledgeBase.chunksInput": "تکه‌ها",
   "nodes.knowledgeBase.chunksInputTip": "متغیر ورودی گره پایگاه دانش تکه‌ها است. نوع متغیر یک شیء با یک طرح JSON خاص است که باید با ساختار تکه انتخاب شده سازگار باشد.",

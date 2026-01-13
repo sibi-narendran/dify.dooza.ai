@@ -1,4 +1,4 @@
-{
+﻿{
   "appCard.addToWorkspace": "Adăugați la spațiul de lucru",
   "appCard.customize": "Personalizați",
   "appCustomize.nameRequired": "Numele aplicației este obligatoriu",
@@ -6,7 +6,7 @@
   "appCustomize.title": "Creați o aplicație din {{name}}",
   "apps.allCategories": "Recomandate",
   "apps.description": "Utilizați aceste aplicații model imediat sau personalizați-vă propria aplicație pe baza modelelor.",
-  "apps.title": "Explorați aplicațiile Dify",
+  "apps.title": "Explorați aplicațiile Dooza",
   "category.Agent": "Agent",
   "category.Assistant": "Asistent",
   "category.Entertainment": "Divertisment",

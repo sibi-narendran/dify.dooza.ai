@@ -1,4 +1,4 @@
-{
+﻿{
   "appCard.addToWorkspace": "작업 공간에 추가",
   "appCard.customize": "사용자 정의",
   "appCustomize.nameRequired": "앱 이름은 필수입니다",
@@ -6,7 +6,7 @@
   "appCustomize.title": "{{name}}으로 앱 만들기",
   "apps.allCategories": "모든 카테고리",
   "apps.description": "이 템플릿 앱을 즉시 사용하거나 템플릿을 기반으로 고유한 앱을 사용자 정의하세요.",
-  "apps.title": "Dify 로 앱 탐색",
+  "apps.title": "Dooza 로 앱 탐색",
   "category.Agent": "에이전트",
   "category.Assistant": "어시스턴트",
   "category.Entertainment": "오락",

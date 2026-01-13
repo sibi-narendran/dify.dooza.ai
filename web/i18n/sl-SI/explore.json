@@ -1,4 +1,4 @@
-{
+﻿{
   "appCard.addToWorkspace": "Dodaj v delovni prostor",
   "appCard.customize": "Prilagodi",
   "appCustomize.nameRequired": "Ime aplikacije je obvezno",
@@ -6,7 +6,7 @@
   "appCustomize.title": "Ustvari aplikacijo iz {{name}}",
   "apps.allCategories": "Priporočeno",
   "apps.description": "Uporabite te predloge aplikacij takoj ali prilagodite svoje aplikacije na podlagi predlog.",
-  "apps.title": "Razišči aplikacije Dify",
+  "apps.title": "Razišči aplikacije Dooza",
   "category.Agent": "Agent",
   "category.Assistant": "Pomočnik",
   "category.Entertainment": "Zabava",

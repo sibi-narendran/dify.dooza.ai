@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "When using external knowledge only, the user can choose whether to enable the Rerank model. If not enabled, retrieved chunks will be sorted based on scores. When the retrieval strategies of different knowledge bases are inconsistent, it will be inaccurate.",
   "allKnowledge": "All Knowledge",
   "allKnowledgeDescription": "Select to display all knowledge in this workspace. Only the Workspace Owner can manage all knowledge.",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "API Endpoint",
   "externalAPIForm.name": "Name",
   "externalAPIForm.save": "Save",
-  "externalAPIPanelDescription": "The external knowledge API is used to connect to a knowledge base outside of Dify and retrieve knowledge from that knowledge base.",
+  "externalAPIPanelDescription": "The external knowledge API is used to connect to a knowledge base outside of Dooza and retrieve knowledge from that knowledge base.",
   "externalAPIPanelDocumentation": "Learn how to create an External Knowledge API",
   "externalAPIPanelTitle": "External Knowledge API",
   "externalKnowledgeBase": "External Knowledge Base",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "VECTOR",
   "indexingTechnique.economy": "ECO",
   "indexingTechnique.high_quality": "HQ",
-  "intro1": "The Knowledge can be integrated into the Dify application ",
+  "intro1": "The Knowledge can be integrated into the Dooza application ",
   "intro2": "as a context",
   "intro3": ",",
   "intro4": "or it ",

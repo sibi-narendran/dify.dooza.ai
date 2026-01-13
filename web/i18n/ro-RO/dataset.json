@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "Când utilizează numai cunoștințe externe, utilizatorul poate alege dacă să activeze modelul Rerank. Dacă nu este activată, bucățile preluate vor fi sortate pe baza scorurilor. Când strategiile de recuperare a diferitelor baze de cunoștințe sunt inconsistente, acestea vor fi inexacte.",
   "allKnowledge": "Toate cunoștințele",
   "allKnowledgeDescription": "Selectați pentru a afișa toate cunoștințele din acest spațiu de lucru. Doar proprietarul spațiului de lucru poate gestiona toate cunoștințele.",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "Punct final API",
   "externalAPIForm.name": "Nume",
   "externalAPIForm.save": "Salva",
-  "externalAPIPanelDescription": "API-ul de cunoștințe externe este utilizat pentru a se conecta la o bază de cunoștințe din afara Dify și pentru a prelua cunoștințe din acea bază de cunoștințe.",
+  "externalAPIPanelDescription": "API-ul de cunoștințe externe este utilizat pentru a se conecta la o bază de cunoștințe din afara Dooza și pentru a prelua cunoștințe din acea bază de cunoștințe.",
   "externalAPIPanelDocumentation": "Aflați cum să creați un API de cunoștințe externe",
   "externalAPIPanelTitle": "API de cunoștințe externe",
   "externalKnowledgeBase": "Baza de cunoștințe externă",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "VECTOR",
   "indexingTechnique.economy": "ECO",
   "indexingTechnique.high_quality": "IC",
-  "intro1": "Cunoștințele pot fi integrate în aplicația Dify ",
+  "intro1": "Cunoștințele pot fi integrate în aplicația Dooza ",
   "intro2": "ca un context",
   "intro3": ",",
   "intro4": "sau ele ",

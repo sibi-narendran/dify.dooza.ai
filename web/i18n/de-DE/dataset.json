@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "Wenn nur externes Wissen verwendet wird, kann der Benutzer auswählen, ob das Rerank-Modell aktiviert werden soll. Wenn diese Option nicht aktiviert ist, werden die abgerufenen Blöcke basierend auf den Punktzahlen sortiert. Wenn die Abrufstrategien verschiedener Wissensdatenbanken inkonsistent sind, ist dies ungenau.",
   "allKnowledge": "Alles Wissen",
   "allKnowledgeDescription": "Wählen Sie diese Option aus, um das gesamte Wissen in diesem Arbeitsbereich anzuzeigen. Nur der Workspace-Besitzer kann das gesamte Wissen verwalten.",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "API-Endpunkt",
   "externalAPIForm.name": "Name",
   "externalAPIForm.save": "Retten",
-  "externalAPIPanelDescription": "Die API für externes Wissen wird verwendet, um eine Verbindung zu einer Wissensdatenbank außerhalb von Dify herzustellen und Wissen aus dieser Wissensdatenbank abzurufen.",
+  "externalAPIPanelDescription": "Die API für externes Wissen wird verwendet, um eine Verbindung zu einer Wissensdatenbank außerhalb von Dooza herzustellen und Wissen aus dieser Wissensdatenbank abzurufen.",
   "externalAPIPanelDocumentation": "Erfahren Sie, wie Sie eine API für externes Wissen erstellen",
   "externalAPIPanelTitle": "API für externes Wissen",
   "externalKnowledgeBase": "Externe Wissensdatenbank",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "VEKTOR",
   "indexingTechnique.economy": "ECO",
   "indexingTechnique.high_quality": "HQ",
-  "intro1": "Das Wissen kann in die Dify-Anwendung ",
+  "intro1": "Das Wissen kann in die Dooza-Anwendung ",
   "intro2": "als Kontext",
   "intro3": ",",
   "intro4": "oder es ",

@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "Quando si utilizzano solo conoscenze esterne, l'utente può scegliere se abilitare il modello Rerank. Se non è abilitato, i blocchi recuperati verranno ordinati in base ai punteggi. Quando le strategie di recupero di diverse basi di conoscenza sono incoerenti, saranno imprecise.",
   "allKnowledge": "Tutta la conoscenza",
   "allKnowledgeDescription": "Selezionare questa opzione per visualizzare tutte le informazioni in questa area di lavoro. Solo il proprietario dell'area di lavoro può gestire tutte le conoscenze.",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "API Endpoint",
   "externalAPIForm.name": "Nome",
   "externalAPIForm.save": "Salvare",
-  "externalAPIPanelDescription": "L'API di conoscenza esterna viene utilizzata per connettersi a una knowledge base esterna a Dify e recuperare le informazioni da tale knowledge base.",
+  "externalAPIPanelDescription": "L'API di conoscenza esterna viene utilizzata per connettersi a una knowledge base esterna a Dooza e recuperare le informazioni da tale knowledge base.",
   "externalAPIPanelDocumentation": "Scopri come creare un'API della Knowledge Base esterna",
   "externalAPIPanelTitle": "API di conoscenza esterna",
   "externalKnowledgeBase": "Base di conoscenza esterna",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "VETTORE",
   "indexingTechnique.economy": "ECO",
   "indexingTechnique.high_quality": "AQ",
-  "intro1": "La Conoscenza può essere integrata nell'applicazione Dify ",
+  "intro1": "La Conoscenza può essere integrata nell'applicazione Dooza ",
   "intro2": "come un contesto",
   "intro3": ",",
   "intro4": "oppure ",

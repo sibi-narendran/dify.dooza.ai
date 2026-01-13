@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "Ao usar apenas conhecimento externo, o usuário pode escolher se deseja habilitar o modelo de reclassificação. Se não estiver ativado, os blocos recuperados serão classificados com base nas pontuações. Quando as estratégias de recuperação de diferentes bases de conhecimento são inconsistentes, elas serão imprecisas.",
   "allKnowledge": "Todo o conhecimento",
   "allKnowledgeDescription": "Selecione para exibir todo o conhecimento neste espaço de trabalho. Somente o proprietário do espaço de trabalho pode gerenciar todo o conhecimento.",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "API Endpoint",
   "externalAPIForm.name": "Nome",
   "externalAPIForm.save": "Salvar",
-  "externalAPIPanelDescription": "A API de conhecimento externo é usada para se conectar a uma base de conhecimento fora do Dify e recuperar o conhecimento dessa base de conhecimento.",
+  "externalAPIPanelDescription": "A API de conhecimento externo é usada para se conectar a uma base de conhecimento fora do Dooza e recuperar o conhecimento dessa base de conhecimento.",
   "externalAPIPanelDocumentation": "Saiba como criar uma API de conhecimento externo",
   "externalAPIPanelTitle": "API de conhecimento externo",
   "externalKnowledgeBase": "Base de conhecimento externa",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "VETOR",
   "indexingTechnique.economy": "ECO",
   "indexingTechnique.high_quality": "AQ",
-  "intro1": "O Conhecimento pode ser integrado ao aplicativo Dify ",
+  "intro1": "O Conhecimento pode ser integrado ao aplicativo Dooza ",
   "intro2": "como um contexto",
   "intro3": ",",
   "intro4": "ou pode ser criado",

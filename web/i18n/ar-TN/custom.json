@@ -1,4 +1,4 @@
-{
+﻿{
   "app.changeLogoTip": "تنسيق SVG أو PNG بحجم أدنى 80x80px",
   "app.title": "تخصيص العلامة التجارية لرأس التطبيق",
   "apply": "تطبيق",
@@ -17,6 +17,6 @@
   "uploading": "جاري التحميل",
   "webapp.changeLogo": "تغيير صورة Powered by Brand",
   "webapp.changeLogoTip": "تنسيق SVG أو PNG بحجم أدنى 40x40px",
-  "webapp.removeBrand": "إزالة Powered by Dify",
+  "webapp.removeBrand": "إزالة Powered by Dooza",
   "webapp.title": "تخصيص العلامة التجارية لتطبيق الويب"
 }

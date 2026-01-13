@@ -1,4 +1,4 @@
-{
+﻿{
   "app.changeLogoTip": "SVG veya PNG formatında, en az 80x80px boyutunda",
   "app.title": "Uygulama başlığı markasını özelleştir",
   "apply": "Uygula",
@@ -17,6 +17,6 @@
   "uploading": "Yükleniyor",
   "webapp.changeLogo": "Powered by Brand Resmini Değiştir",
   "webapp.changeLogoTip": "SVG veya PNG formatında, en az 40x40px boyutunda",
-  "webapp.removeBrand": "Powered by Dify'i kaldır",
+  "webapp.removeBrand": "Powered by Dooza'i kaldır",
   "webapp.title": "web app markasını özelleştir"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
   "allExternalTip": "僅使用外部知識時，用戶可以選擇是否啟用 Rerank 模型。如果未啟用，則檢索到的數據塊將根據分數進行排序。當不同知識庫的檢索策略不一致時，就會不準確。",
   "allKnowledge": "所有知識",
   "allKnowledgeDescription": "選擇以顯示此工作區中的所有知識。只有 Workspace 擁有者可以管理所有知識。",
@@ -68,7 +68,7 @@
   "externalAPIForm.endpoint": "API 終端節點",
   "externalAPIForm.name": "名字",
   "externalAPIForm.save": "救",
-  "externalAPIPanelDescription": "外部知識 API 用於連接到 Dify 外部的知識庫，並從該知識庫中檢索知識。",
+  "externalAPIPanelDescription": "外部知識 API 用於連接到 Dooza 外部的知識庫，並從該知識庫中檢索知識。",
   "externalAPIPanelDocumentation": "瞭解如何創建外部知識 API",
   "externalAPIPanelTitle": "外部知識 API",
   "externalKnowledgeBase": "外部知識庫",
@@ -93,7 +93,7 @@
   "indexingMethod.semantic_search": "向量",
   "indexingTechnique.economy": "經濟",
   "indexingTechnique.high_quality": "高品質",
-  "intro1": "知識庫可以被整合到 Dify 應用中",
+  "intro1": "知識庫可以被整合到 Dooza 應用中",
   "intro2": "作為上下文",
   "intro3": ",",
   "intro4": "或可以",
