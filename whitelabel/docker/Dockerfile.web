@@ -1,0 +1,42 @@
+# Dooza AI - Patched from official Dify image
+FROM langgenius/dify-web:1.11.2
+
+USER root
+
+# 1. Copy custom assets
+COPY whitelabel/web/public/logo/ /app/web/public/logo/
+COPY whitelabel/web/public/favicon.ico /app/web/public/favicon.ico
+COPY whitelabel/web/public/apple-touch-icon.png /app/web/public/apple-touch-icon.png
+
+# 2. Patch all "Dify" text occurrences
+RUN find /app/web/.next -type f \( -name "*.js" -o -name "*.html" \) \
+    -exec sed -i 's/Log in to Dify/Log in to Dooza/g' {} + && \
+    find /app/web/.next -type f \( -name "*.js" -o -name "*.html" \) \
+    -exec sed -i 's/Explore Dify/Explore Dooza/g' {} + && \
+    find /app/web/.next -type f \( -name "*.js" -o -name "*.html" \) \
+    -exec sed -i 's/Go to Dify/Go to Dooza/g' {} + && \
+    find /app/web/.next -type f \( -name "*.js" -o -name "*.html" \) \
+    -exec sed -i 's/Dify Community/Dooza Community/g' {} + && \
+    find /app/web/.next -type f \( -name "*.js" -o -name "*.html" \) \
+    -exec sed -i 's/Dify Enterprise/Dooza Enterprise/g' {} + && \
+    find /app/web/.next -type f \( -name "*.js" -o -name "*.html" \) \
+    -exec sed -i 's/Dify Cloud/Dooza Cloud/g' {} + && \
+    find /app/web/.next -type f \( -name "*.js" -o -name "*.html" \) \
+    -exec sed -i 's/"Dify"/"Dooza"/g' {} + && \
+    find /app/web/.next -type f \( -name "*.js" -o -name "*.html" \) \
+    -exec sed -i 's/Dify logo/Dooza logo/g' {} + && \
+    find /app/web/.next -type f \( -name "*.js" -o -name "*.html" \) \
+    -exec sed -i 's/<title>Dify<\/title>/<title>Dooza<\/title>/g' {} + && \
+    find /app/web/.next -type f \( -name "*.js" -o -name "*.html" \) \
+    -exec sed -i 's/title:"Dify"/title:"Dooza"/g' {} + && \
+    find /app/web/.next -type f \( -name "*.js" -o -name "*.html" \) \
+    -exec sed -i 's/name:"Dify"/name:"Dooza"/g' {} +
+
+# 3. Replace SVG logo with PNG (just use image, no text)
+RUN rm -f /app/web/public/logo/logo.svg && \
+    rm -f /app/web/public/logo/logo-monochrome-white.svg
+
+# 4. Fix ownership
+RUN chown -R dify:dify /app/web/public
+
+USER dify
