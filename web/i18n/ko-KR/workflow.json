@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "캐싱 실행 상태",
   "debug.variableInspect.trigger.stop": "중지",
   "debug.variableInspect.view": "로그 보기",
-  "DoozaTeam": "디파이 팀",
+  "difyTeam": "디파이 팀",
   "entryNodeStatus.disabled": "시작 • 비활성",
   "entryNodeStatus.enabled": "시작",
   "env.envDescription": "환경 변수는 개인 정보와 자격 증명을 저장하는 데 사용될 수 있습니다. 이들은 읽기 전용이며 내보내기 중에 DSL 파일과 분리할 수 있습니다.",

@@ -9,17 +9,13 @@ type LogoEmbeddedChatHeaderProps = {
 const LogoEmbeddedChatHeader: FC<LogoEmbeddedChatHeaderProps> = ({
   className,
 }) => {
+  // TODO: Add logo-embedded-chat-header.png and @2x/@3x variants for better quality
   return (
-    <picture>
-      <source media="(resolution: 1x)" srcSet="/logo/logo-embedded-chat-header.png" />
-      <source media="(resolution: 2x)" srcSet="/logo/logo-embedded-chat-header@2x.png" />
-      <source media="(resolution: 3x)" srcSet="/logo/logo-embedded-chat-header@3x.png" />
-      <img
-        src={`${basePath}/logo/logo-embedded-chat-header.png`}
-        alt="logo"
-        className={cn('block h-6 w-auto', className)}
-      />
-    </picture>
+    <img
+      src={`${basePath}/logo/logo.png`}
+      alt="Dooza logo"
+      className={cn('block h-6 w-auto', className)}
+    />
   )
 }
 

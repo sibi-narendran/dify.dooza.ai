@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "Кешування статусу виконання",
   "debug.variableInspect.trigger.stop": "Зупинись бігти",
   "debug.variableInspect.view": "Переглянути журнал",
-  "DoozaTeam": "Команда Dooza",
+  "difyTeam": "Команда Dooza",
   "entryNodeStatus.disabled": "СТАРТ • ВІДКЛЮЧЕНО",
   "entryNodeStatus.enabled": "ПОЧАТОК",
   "env.envDescription": "Змінні середовища можуть використовуватися для зберігання приватної інформації та облікових даних. Вони доступні лише для читання і можуть бути відокремлені від файлу DSL під час експорту.",

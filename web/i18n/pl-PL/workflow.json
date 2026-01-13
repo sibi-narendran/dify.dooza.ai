@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "Buforowanie statusu działania",
   "debug.variableInspect.trigger.stop": "Zatrzymaj bieg",
   "debug.variableInspect.view": "Zobacz dziennik",
-  "DoozaTeam": "Zespół Dooza",
+  "difyTeam": "Zespół Dooza",
   "entryNodeStatus.disabled": "START • WYŁĄCZONY",
   "entryNodeStatus.enabled": "START",
   "env.envDescription": "Zmienne środowiskowe mogą być używane do przechowywania prywatnych informacji i poświadczeń. Są one tylko do odczytu i mogą być oddzielone od pliku DSL podczas eksportu.",

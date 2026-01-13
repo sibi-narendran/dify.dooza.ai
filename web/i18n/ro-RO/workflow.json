@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "Starea de funcționare a cache-ului",
   "debug.variableInspect.trigger.stop": "Oprește-te din alergat",
   "debug.variableInspect.view": "Vizualizați jurnalul",
-  "DoozaTeam": "Echipa Dooza",
+  "difyTeam": "Echipa Dooza",
   "entryNodeStatus.disabled": "PORNIRE • DEZACTIVAT",
   "entryNodeStatus.enabled": "PORNEȘTE",
   "env.envDescription": "Variabilele de mediu pot fi utilizate pentru a stoca informații private și credențiale. Acestea sunt doar pentru citire și pot fi separate de fișierul DSL în timpul exportului.",

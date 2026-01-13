@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "Shranjevanje statusa delovanja",
   "debug.variableInspect.trigger.stop": "Ustavi se",
   "debug.variableInspect.view": "Oglej si dnevnik",
-  "DoozaTeam": "Ekipa Dooza",
+  "difyTeam": "Ekipa Dooza",
   "entryNodeStatus.disabled": "ZAČNI • ONEMOGOČENO",
   "entryNodeStatus.enabled": "ZAČETEK",
   "env.envDescription": "Okoljske spremenljivke se lahko uporabljajo za shranjevanje zasebnih informacij in poverilnic. So samo za branje in jih je mogoče ločiti od DSL datoteke med izvozem.",

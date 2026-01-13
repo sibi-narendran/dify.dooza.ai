@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "Кэширование текущего состояния",
   "debug.variableInspect.trigger.stop": "Стоп, беги",
   "debug.variableInspect.view": "Просмотр журнала",
-  "DoozaTeam": "Команда Dooza",
+  "difyTeam": "Команда Dooza",
   "entryNodeStatus.disabled": "СТАРТ • ОТКЛЮЧЕНО",
   "entryNodeStatus.enabled": "НАЧАТЬ",
   "env.envDescription": "Переменные среды могут использоваться для хранения конфиденциальной информации и учетных данных. Они доступны только для чтения и могут быть отделены от файла DSL во время экспорта.",

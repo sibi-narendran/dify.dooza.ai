@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "Caching running status",
   "debug.variableInspect.trigger.stop": "Stop run",
   "debug.variableInspect.view": "View log",
-  "DoozaTeam": "Dooza Team",
+  "difyTeam": "Dooza Team",
   "entryNodeStatus.disabled": "START • DISABLED",
   "entryNodeStatus.enabled": "START",
   "env.envDescription": "Environment variables can be used to store private information and credentials. They are read-only and can be separated from the DSL file during export.",

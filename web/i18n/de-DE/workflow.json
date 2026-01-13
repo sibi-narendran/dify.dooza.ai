@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "Caching-Betriebsstatus",
   "debug.variableInspect.trigger.stop": "Halt an",
   "debug.variableInspect.view": "Protokoll anzeigen",
-  "DoozaTeam": "Dooza-Team",
+  "difyTeam": "Dooza-Team",
   "entryNodeStatus.disabled": "START • DEAKTIVIERT",
   "entryNodeStatus.enabled": "START",
   "env.envDescription": "Umgebungsvariablen können zur Speicherung privater Informationen und Anmeldedaten verwendet werden. Sie sind schreibgeschützt und können beim Export vom DSL-File getrennt werden.",

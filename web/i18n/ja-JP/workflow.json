@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "キャッシング実行状況",
   "debug.variableInspect.trigger.stop": "走るのを止めて",
   "debug.variableInspect.view": "ログを表示",
-  "DoozaTeam": "Dooza チーム",
+  "difyTeam": "Dooza チーム",
   "entryNodeStatus.disabled": "開始 • 無効",
   "entryNodeStatus.enabled": "スタート",
   "env.envDescription": "環境変数は、個人情報や認証情報を格納するために使用することができます。これらは読み取り専用であり、DSL ファイルからエクスポートする際には分離されます。",

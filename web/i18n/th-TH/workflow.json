@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "สถานะการทำงานของการเก็บข้อมูลชั่วคราว",
   "debug.variableInspect.trigger.stop": "หยุดวิ่ง",
   "debug.variableInspect.view": "ดูบันทึก",
-  "DoozaTeam": "ทีม Dooza",
+  "difyTeam": "ทีม Dooza",
   "entryNodeStatus.disabled": "เริ่ม • ปิดใช้งาน",
   "entryNodeStatus.enabled": "เริ่ม",
   "env.envDescription": "ตัวแปรสภาพแวดล้อมสามารถใช้เพื่อจัดเก็บข้อมูลส่วนตัวและข้อมูลประจําตัวได้ เป็นแบบอ่านอย่างเดียวและสามารถแยกออกจากไฟล์ DSL ระหว่างการส่งออก",

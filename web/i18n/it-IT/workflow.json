@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "Caching stato di esecuzione",
   "debug.variableInspect.trigger.stop": "Ferma la corsa",
   "debug.variableInspect.view": "Visualizza log",
-  "DoozaTeam": "Team Dooza",
+  "difyTeam": "Team Dooza",
   "entryNodeStatus.disabled": "AVVIO • DISABILITATO",
   "entryNodeStatus.enabled": "INIZIO",
   "env.envDescription": "Le variabili d'ambiente possono essere utilizzate per memorizzare informazioni private e credenziali. Sono di sola lettura e possono essere separate dal file DSL durante l'esportazione.",

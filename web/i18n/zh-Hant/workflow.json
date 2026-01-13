@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "快取運行狀態",
   "debug.variableInspect.trigger.stop": "停止運行",
   "debug.variableInspect.view": "查看日誌",
-  "DoozaTeam": "Dooza 團隊",
+  "difyTeam": "Dooza 團隊",
   "entryNodeStatus.disabled": "開始 • 已停用",
   "entryNodeStatus.enabled": "開始",
   "env.envDescription": "環境變數可用於存儲私人信息和憑證。它們是唯讀的，並且可以在導出時與 DSL 文件分開。",

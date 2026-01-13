@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "Status berjalan caching",
   "debug.variableInspect.trigger.stop": "Berhenti lari",
   "debug.variableInspect.view": "Lihat log",
-  "DoozaTeam": "Tim Dooza",
+  "difyTeam": "Tim Dooza",
   "entryNodeStatus.disabled": "MULAI • NONAKTIF",
   "entryNodeStatus.enabled": "MULAI",
   "env.envDescription": "Variabel lingkungan dapat digunakan untuk menyimpan informasi pribadi dan kredensial. Mereka hanya baca dan dapat dipisahkan dari file DSL selama ekspor.",

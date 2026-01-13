@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "وضعیت اجرای کشینگ",
   "debug.variableInspect.trigger.stop": "متوقف کن، برو",
   "debug.variableInspect.view": "مشاهده لاگ",
-  "DoozaTeam": "تیم دیفی",
+  "difyTeam": "تیم دیفی",
   "entryNodeStatus.disabled": "شروع • غیر فعال",
   "entryNodeStatus.enabled": "شروع",
   "env.envDescription": "متغیرهای محیطی می‌توانند برای ذخیره اطلاعات خصوصی و اعتبارنامه‌ها استفاده شوند. آنها فقط خواندنی هستند و می‌توانند در حین صادر کردن از فایل DSL جدا شوند.",

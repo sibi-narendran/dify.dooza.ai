@@ -1,106 +1,128 @@
-# 🏷️ Dooza AI White-Label Deployment
+# Dooza AI White-Label Deployment
 
-**Theme Color:** `#10B981` (Light Green / Emerald)
+**Theme Color:** `#10B981` (Emerald)
 
-## ✅ Assets Ready
+## Quick Start
 
-```
-whitelabel/web/public/
-├── favicon.ico          ✅
-├── favicon.png          ✅
-├── favicon-32x32.png    ✅
-├── apple-touch-icon.png ✅
-├── manifest.json        ✅
-└── logo/
-    └── logo.png         ✅
+```powershell
+# Apply all whitelabel changes (assets + text rebrand)
+.\whitelabel\apply-whitelabel.ps1
+
+# Deploy
+.\whitelabel\apply-whitelabel.ps1 -Deploy
 ```
 
-## 🚀 Deploy
+## Long-Term Maintenance
 
-### Option 1: Docker Compose (Recommended)
+### After pulling upstream updates:
+
+```powershell
+git fetch upstream
+git merge upstream/main
+
+# Re-apply whitelabel (handles new Dify text from upstream)
+.\whitelabel\apply-whitelabel.ps1
+```
+
+This single command:
+1. Copies your brand assets to production
+2. Runs text rebrand (Dify → Dooza) on all i18n files
+
+---
+
+## Asset Checklist
+
+### Logo Files (whitelabel/web/public/logo/)
+
+| File | Size | Purpose | Required |
+|------|------|---------|----------|
+| `logo.svg` | 48x22 | Main logo (header, auth) | ✅ YES |
+| `logo-monochrome-white.svg` | 48x22 | Dark mode logo | ✅ YES |
+| `logo-site.png` | 64x64 | Webapp header icon | ✅ YES |
+| `logo-site-dark.png` | 64x64 | Dark mode header | Optional |
+| `logo-embedded-chat-avatar.png` | 40x40 | Chat widget avatar | Optional |
+| `logo-embedded-chat-header.png` | 80x20 | Chat widget header | Optional |
+| `logo-embedded-chat-header@2x.png` | 160x40 | Retina chat header | Optional |
+| `logo-embedded-chat-header@3x.png` | 240x60 | 3x retina | Optional |
+
+### Favicon/Icons (whitelabel/web/public/)
+
+| File | Size | Status |
+|------|------|--------|
+| `favicon.ico` | 32x32 | ✅ EXISTS |
+| `favicon-32x32.png` | 32x32 | ✅ EXISTS |
+| `apple-touch-icon.png` | 180x180 | ✅ EXISTS |
+| `manifest.json` | - | ✅ EXISTS |
+| `icon-192x192.png` | 192x192 | Optional (PWA) |
+| `icon-512x512.png` | 512x512 | Optional (PWA) |
+
+---
+
+## Scripts
+
+| Script | Purpose |
+|--------|---------|
+| `apply-whitelabel.ps1` | Main script - syncs assets + rebrand |
+| `rebrand.ps1` | Text replacement only (Dify → Dooza) |
+
+### Script Options
+
+```powershell
+# Preview changes without modifying
+.\whitelabel\apply-whitelabel.ps1 -DryRun
+
+# Only sync assets (skip text rebrand)
+.\whitelabel\apply-whitelabel.ps1 -AssetsOnly
+
+# Build custom Docker image
+.\whitelabel\apply-whitelabel.ps1 -Build
+
+# Deploy with docker compose
+.\whitelabel\apply-whitelabel.ps1 -Deploy
+```
+
+---
+
+## Docker Deployment
+
+### Option 1: Use override file (recommended)
 
 ```bash
 cd docker
 docker compose -f docker-compose.yaml -f ../whitelabel/docker/docker-compose.override.yml up -d
 ```
 
-### Option 2: Direct Deployment
-
-The assets have already been copied to `web/public/`. Just run:
-
-```bash
-cd docker
-docker compose up -d
-```
-
-## 🔄 Sync Upstream Updates
-
-```bash
-git fetch upstream
-git merge upstream/main
-# Resolve any conflicts, your whitelabel/ files are yours
-
-# Re-run rebranding script to update any new "Dify" text from upstream
-.\whitelabel\rebrand.ps1
-```
-
-## 🔤 Rebranding (Dify → Dooza)
-
-The `rebrand.ps1` script replaces all "Dify" text with "Dooza" across:
-- **22 language directories** (660 i18n JSON files)
-- **Frontend components** (logo alt text, icon names)
+### Option 2: Build custom image
 
 ```powershell
-# Preview changes without modifying files
-.\whitelabel\rebrand.ps1 -DryRun
-
-# Apply all changes
-.\whitelabel\rebrand.ps1
-
-# Only rebrand i18n files
-.\whitelabel\rebrand.ps1 -I18nOnly
-
-# Only rebrand component files  
-.\whitelabel\rebrand.ps1 -ComponentsOnly
+.\whitelabel\apply-whitelabel.ps1 -Build -Deploy
 ```
 
-**Note:** Always re-run this script after merging upstream updates.
+---
 
-## ⚙️ Configuration
+## Configuration
 
-Edit `docker/.env` with your production settings:
+Edit `docker/.env`:
 
 ```env
-# URLs
 CONSOLE_API_URL=https://api.dooza.ai
 CONSOLE_WEB_URL=https://app.dooza.ai
 
-# Security (CHANGE THESE!)
 SECRET_KEY=generate-with-openssl-rand-base64-48
 DB_PASSWORD=secure-password
 REDIS_PASSWORD=secure-password
 
-# Disable telemetry
 SCARF_NO_ANALYTICS=true
 NEXT_TELEMETRY_DISABLED=1
 ```
 
-## 📝 Files Modified for White-Label
+---
 
-| File | Change |
-|------|--------|
-| `web/i18n/**/*.json` | All "Dify" → "Dooza" text (660 files) |
-| `web/public/manifest.json` | Name: "Dooza AI", theme: #10B981 |
-| `web/app/layout.tsx` | Theme color & app title |
-| `web/app/components/base/logo/dify-logo.tsx` | Logo alt text |
-| `web/public/browserconfig.xml` | Tile color |
-| `web/public/favicon.ico` | Your favicon |
-| `web/public/apple-touch-icon.png` | Your icon |
-| `web/public/logo/logo-site.png` | Your logo |
+## Theme Colors
 
-## 🎨 Theme Color Reference
-
-- **Primary:** `#10B981` (Emerald 500)
-- **Hover:** `#059669` (Emerald 600)  
-- **Light:** `#D1FAE5` (Emerald 100)
-- **Dark:** `#047857` (Emerald 700)
+| Usage | Color | Hex |
+|-------|-------|-----|
+| Primary | Emerald 500 | `#10B981` |
+| Hover | Emerald 600 | `#059669` |
+| Light | Emerald 100 | `#D1FAE5` |
+| Dark | Emerald 700 | `#047857` |

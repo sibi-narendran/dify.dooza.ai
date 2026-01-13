@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "कैशिंग चल रहा स्थिति",
   "debug.variableInspect.trigger.stop": "रुको दौड़",
   "debug.variableInspect.view": "लॉग देखें",
-  "DoozaTeam": "डिफ़ी टीम",
+  "difyTeam": "डिफ़ी टीम",
   "entryNodeStatus.disabled": "प्रारंभ • अक्षम",
   "entryNodeStatus.enabled": "शुरू",
   "env.envDescription": "पर्यावरण चर का उपयोग निजी जानकारी और क्रेडेंशियल्स को संग्रहित करने के लिए किया जा सकता है। वे केवल पढ़ने योग्य हैं और निर्यात के दौरान DSL फ़ाइल से अलग किए जा सकते हैं।",

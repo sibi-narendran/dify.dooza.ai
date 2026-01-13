@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "Önbellek çalışma durumu",
   "debug.variableInspect.trigger.stop": "Koşmayı durdur",
   "debug.variableInspect.view": "Günlüğü görüntüle",
-  "DoozaTeam": "Dooza Ekibi",
+  "difyTeam": "Dooza Ekibi",
   "entryNodeStatus.disabled": "BAŞLAT • ENGELLİ",
   "entryNodeStatus.enabled": "BAŞLAT",
   "env.envDescription": "Çevre değişkenleri özel bilgileri ve kimlik bilgilerini saklamak için kullanılabilir. Yalnızca okunabilirler ve dışa aktarım sırasında DSL dosyasından ayrılabilirler.",

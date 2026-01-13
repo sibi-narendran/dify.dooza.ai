@@ -7,11 +7,12 @@ type LogoEmbeddedChatAvatarProps = {
 const LogoEmbeddedChatAvatar: FC<LogoEmbeddedChatAvatarProps> = ({
   className,
 }) => {
+  // TODO: Add logo-embedded-chat-avatar.png (40x40) for better quality
   return (
     <img
-      src={`${basePath}/logo/logo-embedded-chat-avatar.png`}
-      className={`block h-10 w-10 ${className}`}
-      alt="logo"
+      src={`${basePath}/logo/logo.png`}
+      className={`block h-10 w-10 object-contain ${className}`}
+      alt="Dooza logo"
     />
   )
 }

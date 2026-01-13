@@ -268,7 +268,7 @@
   "debug.variableInspect.trigger.running": "Trạng thái đang chạy của bộ nhớ đệm",
   "debug.variableInspect.trigger.stop": "Dừng lại",
   "debug.variableInspect.view": "Xem nhật ký",
-  "DoozaTeam": "Đội ngũ Dooza",
+  "difyTeam": "Đội ngũ Dooza",
   "entryNodeStatus.disabled": "BẮT ĐẦU • VÔ HIỆU HÓA",
   "entryNodeStatus.enabled": "BẮT ĐẦU",
   "env.envDescription": "Biến môi trường có thể được sử dụng để lưu trữ thông tin cá nhân và thông tin xác thực. Chúng chỉ được đọc và có thể được tách khỏi tệp DSL trong quá trình xuất.",
